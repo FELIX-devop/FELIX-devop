@@ -96,6 +96,10 @@ Java Full Stack Developer
 
 ---
 
+### 🧠 Coding Practice
+
+[![Skillrack](https://img.shields.io/badge/Skillrack-Coding_Profile-green?style=for-the-badge)](http://www.skillrack.com/profile/407869/0391c20838ab4a155b6b0606c23ab2ce0b452087)
+
 ## 📦 Projects
 
 🔹 **Skill Intelligence** – Spring Boot, Neo4j, JWT  
