@@ -89,6 +89,15 @@ Java Full Stack Developer
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
+## 🤖 AI Tools
+<p>
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Windsurf-00BFA6?style=for-the-badge"/>
+</p>
+
 ### 🛠 Tools
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
