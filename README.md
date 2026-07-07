@@ -110,16 +110,14 @@ Java Full Stack Developer
 
 ### 🧠 Coding Practice
 
-[![Skillrack](https://img.shields.io/badge/Skillrack-Coding_Profile-green?style=for-the-badge)](http://www.skillrack.com/profile/407869/0391c20838ab4a155b6b0606c23ab2ce0b452087)
-
 <p>
-
-  <a href="https://leetcode.com/u/lq5OPQVhuB/" target="_blank">
-
-    <img src="https://img.shields.io/badge/LeetCode-lq5OPQVhuB-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-
+  <a href="http://www.skillrack.com/profile/407869/0391c20838ab4a155b6b0606c23ab2ce0b452087" target="_blank">
+    <img src="https://img.shields.io/badge/Skillrack-Coding_Profile-28A745?style=for-the-badge" alt="Skillrack"/>
   </a>
 
+  <a href="https://leetcode.com/u/lq5OPQVhuB/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-lq5OPQVhuB-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 </p>
 
 ## 📦 Projects
